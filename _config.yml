@@ -48,7 +48,7 @@ scroll_reveal: true
 # navigation config
 nav:
   # the title displays in the upper left corner which won't change
-  title: Blog
+  title: H's Blog
   # the items displays in the upper right corner
   items:
     # these items will display as a link
@@ -57,11 +57,7 @@ nav:
     Projects: /projects
     About: /about
     # these will be automatically be an icon
-    GitHub: https://github.com/MrWillCom
-    CodePen: https://codepen.io/mrwillcom
-    Patreon: https://www.patreon.com/MrWillCom
-    Mastodon: https://noc.social/@MrWillCom
-    Discord: https://discord.gg/UKuFDjcfY8
+    GitHub: https://github.com/HaleyCH
     Search: /search
 
 # footer items
@@ -82,19 +78,12 @@ footer:
   # also the title
   Projects:
     # the items
-    RSA CLI: https://github.com/MrWillCom/rsa-cli
-    Hexo Theme Cupertino: https://github.com/MrWillCom/hexo-theme-cupertino
-    A Calendar: https://github.com/MrWillCom/a-calendar
-    Auto Mirroring Bucket: https://github.com/MrWillCom/auto-mirroring-bucket
+    Hexo Theme Cupertino: https:/HaleyCH/github.com//hexo-theme-cupertino
   # the title
   Me:
     # items
-    GitHub: https://github.com/MrWillCom
-    CodePen: https://codepen.io/mrwillcom
-    Patreon: https://www.patreon.com/MrWillCom
-    Mastodon: https://noc.social/@MrWillCom
-    Discord: https://discord.gg/UKuFDjcfY8
-    Email: mailto:mr.will.com@outlook.com
+    GitHub: https://github.com/HaleyCH
+    Email: 1617335718@qq.com
 
 # footer extra description
 # footer_extra_description: something will be shown at the bottom of the footer
@@ -110,3 +99,6 @@ search: true
 search_path: search.json
 
 # REMEMBER TO EDIT THIS BEFORE DEPLOYING!!!
+
+
+
