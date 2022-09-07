@@ -53,8 +53,8 @@ nav:
   items:
     # these items will display as a link
     Archives: /archives
-    Friends: /friends
-    Projects: /projects
+    Categories: /Categories
+    Tags: /tags
     About: /about
     # these will be automatically be an icon
     GitHub: https://github.com/HaleyCH
@@ -99,6 +99,3 @@ search: true
 search_path: search.json
 
 # REMEMBER TO EDIT THIS BEFORE DEPLOYING!!!
-
-
-
